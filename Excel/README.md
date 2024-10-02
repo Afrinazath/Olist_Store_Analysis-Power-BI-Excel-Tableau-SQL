@@ -1,14 +1,15 @@
 # Olist Store Analysis
 
 ## Introduction :
-This is a power Bi Project on "Store Analysis". The project is to analyze and derive insights to answer crucial 
-questions and help the store make data driven decisions.
+This is an Excel Project on "Store Analysis". The project is to analyze and derive insights to answer crucial 
+questions and help the store to make data driven decisions.
 
 ### SKills Used:
 - Power Pivot
 - Pivot Table
 - Calcualted Field
-- Data Model in Power Pivot
+- Data Model 
+- 
 ### Problem Statement
 1. Weekday Vs Weekend (order_purchase_timestamp) Payment Statistics
 
@@ -20,7 +21,7 @@ questions and help the store make data driven decisions.
 
 5. Relationship between shipping days (order_delivered_customer_date - order_purchase_timestamp) Vs review scores.
 
-### Data Model
+## Data Model
 ![](Images/Data_model.png)
 
 ## DASHBOARD
