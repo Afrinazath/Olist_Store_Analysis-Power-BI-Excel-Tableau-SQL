@@ -1,6 +1,6 @@
 ## Power BI - Olist Store Analysis
 
-#### Data Set : 9 Data Set Provided
+#### Data Set : 9 Data Sets Provided
 #### Skills Used : 
       - Power Query For ETL process : Removed duplicates, Imputed Null Values with meaning data, Checked Data Types
       - Data Modelling : Challenge based with many to many relationship overcome with creating Bridge Table
@@ -10,3 +10,4 @@
       - Bookmark and selection used
       - Slicer and Fillters used.
       - Buttons and Navigation used to access various reports
+#### Data Modelling:
