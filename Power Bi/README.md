@@ -12,3 +12,6 @@
       - Buttons and Navigation used to access various reports
 #### Data Modelling:
 ![Alt text](https://github.com/Afrinazath/Olist_Store_Analysis-Power-BI-Excel-Tableau-SQL/blob/main/Power%20Bi/DataModel.png)
+
+#### DashBoard: 
+![Alt text](https://github.com/Afrinazath/Olist_Store_Analysis-Power-BI-Excel-Tableau-SQL/blob/main/Power%20Bi/DataModel.png)
