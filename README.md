@@ -12,6 +12,6 @@
 
   We get this dataset from Excelr Team. We have an e-commerce Olist dataset  with 9 csv files.
 ## KPI 1 - Weekday Vs Weekend Payment History
-<img src="[https://github.com/yourusername/yourrepo/blob/main/assets/images/logo.png](https://github.com/Afrinazath/Olist_Store_Analysis-Power-BI-Excel-Tableau-SQL/blob/main/KPI%201.png)" alt="Logo" width="200"/>
+<img src="https://github.com/yourusername/yourrepo/blob/main/assets/images/logo.png](https://github.com/Afrinazath/Olist_Store_Analysis-Power-BI-Excel-Tableau-SQL/blob/main/KPI 1.png)" width="200"/>
 
 
