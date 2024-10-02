@@ -18,15 +18,15 @@
 ## KPI-3 Average number of days taken for Pet Shop
 ![Alt text](https://github.com/Afrinazath/Olist_Store_Analysis-Power-BI-Excel-Tableau-SQL/blob/main/KPI%203.png)
 ## KPI-4 Average price and payment values from customers of Sao Paulo city
-![Alt text](https://github.com/Afrinazath/Olist_Store_Analysis-Power-BI-Excel-Tableau-SQL/blob/main/KPI%204.png)
+![Alt text](https://github.com/Afrinazath/Olist_Store_Analysis-Power-BI-Excel-Tableau-SQL/blob/main/KpI%204.png)
 ## KPI 5 - Relationship between shipping days Vs review scores.
 ![Alt text](https://github.com/Afrinazath/Olist_Store_Analysis-Power-BI-Excel-Tableau-SQL/blob/main/KPI%205.png)
 ## EXCEL DASHBOARD
 ![Alt text](https://github.com/Afrinazath/Olist_Store_Analysis-Power-BI-Excel-Tableau-SQL/blob/main/excel.png)
 ## POWER BI DASHBOARD
-![Alt text](https://github.com/Afrinazath/Olist_Store_Analysis-Power-BI-Excel-Tableau-SQL/blob/main/powerbi.png)
+![Alt text](https://github.com/Afrinazath/Olist_Store_Analysis-Power-BI-Excel-Tableau-SQL/blob/main/Powerbi.png)
 ## TABLEAU DASHBOARD
-![Alt text](https://github.com/Afrinazath/Olist_Store_Analysis-Power-BI-Excel-Tableau-SQL/blob/main/tableau.png)
+![Alt text](https://github.com/Afrinazath/Olist_Store_Analysis-Power-BI-Excel-Tableau-SQL/blob/main/Tableau.png)
 
 
 
