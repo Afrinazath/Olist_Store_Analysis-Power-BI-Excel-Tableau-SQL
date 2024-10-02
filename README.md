@@ -14,15 +14,19 @@
 ## KPI 1 - Weekday Vs Weekend Payment History
 ![Alt text](https://github.com/Afrinazath/Olist_Store_Analysis-Power-BI-Excel-Tableau-SQL/blob/main/KPI%201.png)
 ## KPI-2 Number of Orders with review score 5 and payment type as credit card
+![Alt text](https://github.com/Afrinazath/Olist_Store_Analysis-Power-BI-Excel-Tableau-SQL/blob/main/KPI%202.png)
 ## KPI-3 Average number of days taken for Pet Shop
-![image](https://github.com/user-attachments/assets/22a69ba4-6bea-453d-a209-04d908bc18a7)
+![Alt text](https://github.com/Afrinazath/Olist_Store_Analysis-Power-BI-Excel-Tableau-SQL/blob/main/KPI%203.png)
 ## KPI-4 Average price and payment values from customers of Sao Paulo city
-![image](https://github.com/user-attachments/assets/ccf6d817-b453-4ed1-9a10-7877b8868247)
+![Alt text](https://github.com/Afrinazath/Olist_Store_Analysis-Power-BI-Excel-Tableau-SQL/blob/main/KPI%204.png)
 ## KPI 5 - Relationship between shipping days Vs review scores.
-![image](https://github.com/user-attachments/assets/da5034f0-2929-4991-9b80-6a3c5385fb49)
+![Alt text](https://github.com/Afrinazath/Olist_Store_Analysis-Power-BI-Excel-Tableau-SQL/blob/main/KPI%205.png)
 ## EXCEL DASHBOARD
+![Alt text](https://github.com/Afrinazath/Olist_Store_Analysis-Power-BI-Excel-Tableau-SQL/blob/main/excel.png)
 ## POWER BI DASHBOARD
+![Alt text](https://github.com/Afrinazath/Olist_Store_Analysis-Power-BI-Excel-Tableau-SQL/blob/main/powerbi.png)
 ## TABLEAU DASHBOARD
+![Alt text](https://github.com/Afrinazath/Olist_Store_Analysis-Power-BI-Excel-Tableau-SQL/blob/main/tableau.png)
 
 
 
