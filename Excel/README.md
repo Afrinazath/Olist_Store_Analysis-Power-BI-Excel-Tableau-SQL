@@ -1,5 +1,9 @@
 # Olist Store Analysis
 
+## Introduction :
+This is a power Bi Project on "Store Analysis". The project is to analyze and derive insights to answer crucial 
+questions and help the store make data driven decisions.
+
 ### SKills Used:
 - Power Pivot
 - Pivot Table
