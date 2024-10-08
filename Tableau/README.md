@@ -25,13 +25,19 @@ The following Tableau features were incorporated:
 - Calculated Fields and table calculations, such as running totals, moving averages, or ratios.
 - Slicer and Fillters used.
   
-### Data Modelling:
+### Data Source Connectivity and Modelling:
 ![Alt text](images/Data_Model.png)
 ### Main Dashboard
 ![Alt text](images/main_dashboard.png)
-#### Other Interactive Dashboards based on KPI's
+#### Other Interactive Dashboards based on KPI's from main Dashboard
+#### Weekday Vs Weekend (order_purchase_timestamp) Payment Statistics
 ![Alt text](images/2.png)
+#### Number of Orders with review score 5 and payment type as credit card.
 ![Alt text](images/3.png)
+#### Average number of days taken for order_delivered_customer_date for pet_shop
 ![Alt text](images/4.png)
+#### Average price and payment values from customers of sao paulo city
 ![Alt text](images/5.png)
+#### Relationship between shipping days (order_delivered_customer_date - order_purchase_timestamp) Vs review scores
+![Alt text](images/6.png)
 
