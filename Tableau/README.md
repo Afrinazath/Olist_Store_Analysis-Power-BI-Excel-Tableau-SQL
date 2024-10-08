@@ -5,7 +5,7 @@ This is a Tableau Project on "OList Store Analysis". The project is to analyze a
 questions and help the store make data driven decisions.
 
 ### Data Set : 9 Data Sets Provided
-### Dashboard : [Dowload here](https://public.tableau.com/shared/BNKCJJCN8?:display_)
+### Dashboard : [Click here to access interactive Dashboard in Tableau Public](https://public.tableau.com/shared/BNKCJJCN8?:display_)
 
 ### Problem Statement
 1. Weekday Vs Weekend (order_purchase_timestamp) Payment Statistics
@@ -22,8 +22,16 @@ The following Tableau features were incorporated:
 - Data Extracts  
 - Embedded Dashboards
 - Data Blending and Joins
-- Calculated Fields and Table Calculations
+- Calculated Fields and table calculations, such as running totals, moving averages, or ratios.
 - Slicer and Fillters used.
   
 ### Data Modelling:
-![Alt text](Images/Data_Model.png)
+![Alt text](images/Data_Model.png)
+### Main Dashboard
+![Alt text](images/main_dashboard.png)
+#### Other Interactive Dashboards based on KPI's
+![Alt text](images/2.png)
+![Alt text](images/3.png)
+![Alt text](images/4.png)
+![Alt text](images/5.png)
+
